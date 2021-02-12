@@ -19,7 +19,7 @@ disqusShortname = "yourdiscussshortname"
     description = "StackCodeTest example  website"
     keywords = "blog,developer,personal"
     info = "Automation & Development: iOS - MacOS &  edge-ML "
-    #avatarURL = "images/avatar.jpg"
+    avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "- - site under construction - -"
 
