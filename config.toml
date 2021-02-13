@@ -1,6 +1,8 @@
 baseURL = "http://www.stackcodetest.com"
 title = "Stack Code and Test"
 
+publishdir = "public"
+
 theme = "hugo-coder"
 
 languageCode = "en"
@@ -22,7 +24,6 @@ disqusShortname = "yourdiscussshortname"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
     footerContent = "- - site under construction - -"
-    publishdir = ".."
 
     dateFormat = "January 2, 2006"
 
