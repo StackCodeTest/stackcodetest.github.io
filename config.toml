@@ -17,7 +17,7 @@ pygmentsCodeFencesGuessSyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Jeff Simon"
+    author = "Stack Code Test"
     description = "StackCodeTest example  website"
     keywords = "blog,developer,personal"
     info = "Automation & Development: iOS - MacOS &  edge-ML "
@@ -30,7 +30,7 @@ disqusShortname = "yourdiscussshortname"
     hideFooter = false
     hideCredits = false
     hideCopyright = false
-    since = 2017
+    since = 2021
 
     # Git Commit in Footer, uncomment the line below to enable it.
     # commit = "https://github.com/luizdepra/hugo-coder/tree/"
